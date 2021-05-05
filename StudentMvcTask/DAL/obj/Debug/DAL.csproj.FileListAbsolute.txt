@@ -1,0 +1,14 @@
+E:\workspace\MVC\StudentMvcTask\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\workspace\MVC\StudentMvcTask\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\workspace\MVC\StudentMvcTask\DAL\bin\Debug\DAL.dll.config
+E:\workspace\MVC\StudentMvcTask\DAL\bin\Debug\DAL.dll
+E:\workspace\MVC\StudentMvcTask\DAL\bin\Debug\DAL.pdb
+E:\workspace\MVC\StudentMvcTask\DAL\bin\Debug\DAL.dll.CodeAnalysisLog.xml
+E:\workspace\MVC\StudentMvcTask\DAL\bin\Debug\DAL.dll.lastcodeanalysissucceeded
+E:\workspace\MVC\StudentMvcTask\DAL\bin\Debug\EntityFramework.dll
+E:\workspace\MVC\StudentMvcTask\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\workspace\MVC\StudentMvcTask\DAL\bin\Debug\EntityFramework.xml
+E:\workspace\MVC\StudentMvcTask\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\workspace\MVC\StudentMvcTask\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\workspace\MVC\StudentMvcTask\DAL\obj\Debug\DAL.dll
+E:\workspace\MVC\StudentMvcTask\DAL\obj\Debug\DAL.pdb
